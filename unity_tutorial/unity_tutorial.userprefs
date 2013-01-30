@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\3D Platformer Tutorial\Player\NetworkScript.js">
+    <Files>
+      <File FileName="Assets\3D Platformer Tutorial\Player\NetworkScript.js" Line="29" Column="4" />
+      <File FileName="Assets\3D Platformer Tutorial\Scripts\Player\ThirdPersonStatus.js" Line="57" Column="14" />
+      <File FileName="Assets\3D Platformer Tutorial\Scripts\Player\ThirdPersonController.js" Line="345" Column="60" />
+      <File FileName="Assets\3D Platformer Tutorial\Scripts\Misc\LevelStatus.js" Line="65" Column="75" />
+      <File FileName="Assets\3D Platformer Tutorial\Player\HandleSpaceshipCollision.js" Line="23" Column="2" />
+      <File FileName="Assets\3D Platformer Tutorial\Scripts\Enemies\EnemyDamage.js" Line="39" Column="1" />
+      <File FileName="Assets\3D Platformer Tutorial\Player\GameOverScript.js" Line="5" Column="43" />
+      <File FileName="Assets\3D Platformer Tutorial\Player\GameOverGUI.js" Line="5" Column="27" />
+      <File FileName="Assets\3D Platformer Tutorial\Player\StartMenuGUI.js" Line="39" Column="20" />
+      <File FileName="Assets\3D Platformer Tutorial\Scripts\Enemies\EnemyPoliceGuy.js" Line="210" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
